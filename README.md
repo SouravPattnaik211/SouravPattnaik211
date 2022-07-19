@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Sourav_Pattnaik
+- A Computer Science Grad.
 - 👀 I’m interested in Java, Python, MySQL, Software Development
-- Currently a Software Engineer
-- Looking for Working and sharing my skills for amazing plateforms
+- Always curious to learn new stuff!
+- Currently a Software Engineer :)
+- Looking for working and sharing my skills for amazing plateforms.
 - 📫 How to reach me (EMAIL) - sourav.specter@gmail.com
 
 <!---
