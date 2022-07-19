@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sourav_Pattnaik
-- A Computer Science Grad.
+- A Computer Science Engineer Grad.
 - 👀 I’m interested in Java, Python, MySQL, Software Development
 - Always curious to learn new stuff!
 - Currently a Software Engineer :)
